@@ -83,6 +83,3 @@ weight = 5
   [[params.social]]
     name = "email"
     link = "zhangxiaoyu9350@gmail.com"  # no need for "mailto:" in the head
-  [[params.social]]
-    name = "email"
-    link = "zhangxiaoyu9350@gmail.com"  # no need for "mailto:" in the head
