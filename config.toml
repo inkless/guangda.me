@@ -1,6 +1,6 @@
 baseURL = "https://guangda.me"
 languageCode = "en-us"
-title = "Guangda Zhang's space"
+title = "Guangda Zhang's space - 无墨阁"
 theme = "cactus"
 copyright = "Guangda Zhang"
 
@@ -20,9 +20,14 @@ url = "/tags"
 weight = 3
 
 [[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 4
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [markup]
   [markup.tableOfContents]
@@ -48,7 +53,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "A tenured software engineer, startup veteran, coder, thinker."
+  description = "Welcome to my space, I will share my thoughts, life here."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -75,6 +80,9 @@ weight = 4
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/guangda-zhang/"
+  [[params.social]]
+    name = "email"
+    link = "zhangxiaoyu9350@gmail.com"  # no need for "mailto:" in the head
   [[params.social]]
     name = "email"
     link = "zhangxiaoyu9350@gmail.com"  # no need for "mailto:" in the head

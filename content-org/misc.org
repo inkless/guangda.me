@@ -1,0 +1,21 @@
+#+hugo_base_dir: ../
+#+hugo_auto_set_lastmod: t
+#+author: Guangda Zhang
+
+* Misc :@misc:
+All misc posts
+** DONE A new start
+CLOSED: [2021-07-07 Wed 00:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-new-start
+:END:
+
+I decided to migrate from [[https://www.zhangguangda.com/][zhangguangda.com]] to here, and move from digital ocean
+to this github pages. I feel like I don't really need a web server for these
+static contents.
+Also I'm considering to restart my blogging. Hope this time I can actually write
+some stuff.
+
+Anyway, this is going to be a new start for me.
+
+Hi, [[https://guangda.me][guangda.me]]!!

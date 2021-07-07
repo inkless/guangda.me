@@ -29,6 +29,11 @@
       "name": "Dragger",
       "url": "https://github.com/inkless/dragger",
       "desc": "A drag and drop library for PC and mobile"
+    },
+    {
+      "name": "Static sites",
+      "url": "https://slides.guangda.me",
+      "desc": "A collection of static sites/slides"
     }
   ]
 }
