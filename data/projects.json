@@ -26,6 +26,11 @@
       "desc": "A electron boilerplate with TypeScript, React, and redux"
     },
     {
+      "name": "WE framework",
+      "url": "https://webenergy.github.io",
+      "desc": "A FE framework used by shanda online"
+    },
+    {
       "name": "Dragger",
       "url": "https://github.com/inkless/dragger",
       "desc": "A drag and drop library for PC and mobile"
