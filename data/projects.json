@@ -39,6 +39,11 @@
       "name": "Static sites",
       "url": "https://slides.guangda.me",
       "desc": "A collection of static sites/slides"
+    },
+    {
+      "name": "Sick coder",
+      "url": "https://sickcoder.com",
+      "desc": "[WIP] A next.js project"
     }
   ]
 }
