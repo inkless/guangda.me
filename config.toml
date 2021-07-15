@@ -83,4 +83,4 @@ weight = 5
     link = "https://www.linkedin.com/in/guangda-zhang/"
   [[params.social]]
     name = "email"
-    link = "hi@guangda.me"  # no need for "mailto:" in the head
+    link = "g@guangda.me"  # no need for "mailto:" in the head
