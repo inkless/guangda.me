@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/inkless
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guangda.me
+  * I am inkless (https://keybase.io/inkless) on keybase.
+  * I have a public key ASAe8oQhR4P13h1Agwn9B_4B5isvDqVBS4yed2wzhp4cAAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ddc3b6989cca85307d91229c6e433ae9beef8ab94dcab1c9f096b09217ffb19c0a",
+      "host": "keybase.io",
+      "kid": "01201ef284214783f5de1d408309fd07fe01e62b2f0ea5414b8c9e776c33869e1c000a",
+      "uid": "e176e2b3ff7d5810e2012188dfb01c19",
+      "username": "inkless"
+    },
+    "merkle_root": {
+      "ctime": 1626553130,
+      "hash": "8df1908df8881bef05a525d801c0c9a9c04ea7a91ffab88ccfc7dfc6a6eca5fa87d9b0fa357074bb40a563cccbea14cd8836a27cc1a08a18bb90265d83850c51",
+      "hash_meta": "bd862121a65e51212fad05bcd83f7e15a7ea2fff2043c5816dc97a3464299687",
+      "seqno": 20395373
+    },
+    "service": {
+      "entropy": "KCLkPPHdb5LDSKIXzgXZ/gm8",
+      "hostname": "guangda.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1626553147,
+  "expire_in": 504576000,
+  "prev": "af995cfee4f4a24c7399505ef133c49e667a1cfbdcfe77f8951fe88ccd10c5df",
+  "seqno": 45,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHvKEIUeD9d4dQIMJ/Qf+AeYrLw6lQUuMnndsM4aeHAAKp3BheWxvYWTESpcCLcQgr5lc/uT0okxzmVBe8TPEnmZ6HPvc/nf4lR/ojM0Qxd/EII6m2kFIEHcQKJv6BXNglQkK5gkQ2yfbrmPAAWXMZTn9AgHCo3NpZ8RAo9dxsaf4ZdHoWGZvzOPepdHUHaJJ0oUI0XY7l2RJgMQ5ghH8jt4HoHKJaAiTeOEnf3Ft6YSx46urLyZpHn7oB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE9AeHtiWfwxBSuDzj8h27o71ZjTaeXx6bfv7xMHk+3To3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/inkless
+
+==================================================================
