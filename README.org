@@ -1,7 +1,0 @@
-#+TITLE: README
-
-This is the source code for [[https://guangda.me][guangda.me]].
-
-The content is written in org mode, complied by [[https://ox-hugo.scripter.co/][ox-hugo]] to markdown, then published to github pages through github actions.
-
-I am maintaining my writings, projects and some other stuff here.

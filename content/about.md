@@ -10,5 +10,3 @@ Hi, I am Guangda Zhang. Currently I work as senior staff software engineer
 @[affirm](https://affirm.com).
 
 I enjoy coding, cooking, reading books. Occasionally I play some games.
-
-I am a bitcoin maximalist, I also believe in scientific socialism :)

@@ -1,5 +1,0 @@
-#+hugo_base_dir: ../
-#+author: Guangda Zhang
-
-* Notes :@notes:
-All notes

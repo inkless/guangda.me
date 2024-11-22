@@ -1,5 +1,0 @@
-#+hugo_base_dir: ../
-#+author: Guangda Zhang
-
-* Life :@life:
-All life related posts
